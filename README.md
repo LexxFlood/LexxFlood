@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• Iniciando nesse mundo em 2025.<br>• Estou em busca do meu 5º GUB no Taekwondo.<br>• Atualmente mais familiarizado com a linguagem C.<br>• Iniciando meus estudos em Java e Python.</p>
+<p align="left">• Iniciando nesse mundo em 2025.<br>• Estou em busca do meu 4º GUB no Taekwondo.<br>• Atualmente mais familiarizado com a linguagem C.<br>• Iniciando meus estudos em Java e Python.</p>
 
 ###
 
